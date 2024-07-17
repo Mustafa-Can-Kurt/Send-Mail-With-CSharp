@@ -1,0 +1,4 @@
+- This application only performs sending and viewing of sent e-mails.
+- SMTP protocol, 587 port and smtp.live.com server address are used to send e-mail.
+- Used for Microsoft's services such as Outlook.com, Hotmail and Live.com
+- By using SSL (Secure Sockets Layer) connection, data is encrypted.
